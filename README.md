@@ -1,1 +1,1 @@
-<h1>Laboratorio C214 - codigos</h1>
+<h1 align = "center">Laboratorio C214 - codigos</h1>
