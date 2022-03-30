@@ -11,3 +11,7 @@
 
 ### :computer: Descricao EntregaAula3:
 <p>Mini projeto utilizando conceitos de JavaScript e aplicações de conceito de Node, relacionado ao descrito em Aula03 - Codigos</p>
+
+### :computer: Descricao Aula 06:
+<p>Mini projeto utilizando conceitos de Api rest CRUD basico</p>
+
