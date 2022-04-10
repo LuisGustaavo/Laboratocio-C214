@@ -1,6 +1,6 @@
 <h1 align = "center">Laboratorio C214 - codigos</h1>
 
-### ❗ Requisitos do projeto
+### ❗ Requisitos 
 - [x]  Orientação a objetos (React)
 - [x] Realizar um CRUD
 - [x] Permanência de dados (MongoDB Atlas)
@@ -33,6 +33,6 @@ https://github.com/LuisGustaavo/Laboratorio-C214
 ### :computer: Descricao Aula 06:
 <p>Mini projeto utilizando conceitos de Api rest CRUD basico</p>
 
-## ✒️ Autores
+## ✒️ Autor
 
 * **Luis Gustavo Pereira Barbosa** - [Luis Gustavo](https://github.com/LuisGustaavo)
