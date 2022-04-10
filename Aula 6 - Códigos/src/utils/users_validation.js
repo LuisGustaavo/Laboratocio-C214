@@ -5,37 +5,19 @@ const create = {
         },
         type: 'string',
     },
-    email: {
+    forca: {
         presence: {
             allowEmpty: false,
         },
         type: 'string',
     },
-    senha: {
+    poder: {
         presence: {
             allowEmpty: false,
         },
         type: 'string',
     },
-};
-
-const update = {
-    nome: {
-        presence: {
-            allowEmpty: false,
-        },
-        type: 'string',
-    },
-    email: {
-        presence: {
-            allowEmpty: false,
-        },
-        type: 'string',
-    },
-};
-
-const get = {
-    email: {
+    origem: {
         presence: {
             allowEmpty: false,
         },
@@ -44,7 +26,7 @@ const get = {
 };
 
 const deleteBy = {
-    email: {
+    nome: {
         presence: {
             allowEmpty: false,
         },
@@ -53,8 +35,6 @@ const deleteBy = {
 };
 
 module.exports = {
-    update,
     create,
-    get,
     deleteBy,
 };
